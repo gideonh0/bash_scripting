@@ -16,6 +16,7 @@ A dedicated repository for documenting my progress, scripts, and notes as I mast
 
 ## ✍️ Daily Logs
 * **Feb 27, 2026**: Initialized repository and drafted the README.
+* **Mar 02, 2026**: Created Day1_TheBasics.md & drafted bash template.
 
 ## ⚙️ How to Run
 To run any script in this repo, ensure you give it execution permissions:
